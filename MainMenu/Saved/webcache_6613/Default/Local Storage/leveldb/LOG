@@ -1,10 +1,9 @@
-2026/04/27-11:08:29.334 3b28 Reusing MANIFEST C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/27-11:08:29.342 3b28 Recovering log #30
-2026/04/27-11:08:29.343 3b28 Level-0 table #3: started
-2026/04/27-11:08:29.353 3b28 Level-0 table #3: 90238 bytes OK
-2026/04/27-11:08:29.362 3b28 Delete type=2 #5
-2026/04/27-11:08:29.362 3b28 Delete type=2 #25
-2026/04/27-11:08:29.362 3b28 Delete type=2 #27
-2026/04/27-11:08:29.362 3b28 Delete type=2 #29
-2026/04/27-11:08:29.362 3b28 Delete type=0 #30
-2026/04/27-11:08:29.362 3b28 Delete type=2 #31
+2026/04/27-11:27:26.992 4118 Reusing MANIFEST C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/27-11:27:27.001 4118 Recovering log #31
+2026/04/27-11:27:27.005 4118 Reusing old log C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\Local Storage\leveldb/000031.log 
+2026/04/27-11:51:37.155 d94 Level-0 table #34: started
+2026/04/27-11:51:37.159 d94 Level-0 table #34: 65170 bytes OK
+2026/04/27-11:51:37.163 d94 Delete type=0 #31
+2026/04/27-11:53:37.137 d94 Level-0 table #36: started
+2026/04/27-11:53:37.135 d94 Level-0 table #36: 78831 bytes OK
+2026/04/27-11:53:37.138 d94 Delete type=0 #33
