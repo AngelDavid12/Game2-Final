@@ -1,36 +1,16 @@
-[6924:17388:0426/211951.475:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6924:5212:0426/211951.822:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6924:17388:0426/211952.021:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6924:5212:0426/211958.079:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6924:5212:0426/211958.082:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6924:5212:0426/211958.084:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6924:5212:0426/211958.087:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21420:7536:0426/212003.196:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-61EB5E3B6BC468AD5FE1D7AD80770540 will be ignored
-[6924:25192:0426/212004.191:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[6924:25192:0426/212004.195:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[10352:12508:0426/212050.171:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 8-F5784EB12C07DE4B988A1104852DC2B4 will be ignored
-[17944:20648:0426/223323.936:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame A-350D1327BAD84016BE9E344FA1B0FE37 will be ignored
-[26088:25860:0426/223510.363:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
-
-[26088:15788:0426/223510.547:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
-C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
-
-[26088:12256:0426/223510.703:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
-
-[26088:18960:0426/223511.238:ERROR:gl_utils.cc(415)] [.WebGL-0000643005183100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[26088:18960:0426/223511.238:ERROR:gl_utils.cc(415)] [.WebGL-0000643005183100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[26088:18960:0426/223511.258:ERROR:gl_utils.cc(415)] [.WebGL-0000643005183100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[26088:18960:0426/223511.258:ERROR:gl_utils.cc(415)] [.WebGL-0000643005183100] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[26088:21744:0426/224443.505:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(95,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
-C:\fakepath(96,23-33): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value
-
-[26088:12256:0426/224443.642:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-C:\fakepath(382,11-39): warning X4008: floating point division by zero
-
-[6924:17388:0426/232551.281:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19816:8128:0427/011037.491:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19816:8128:0427/011037.760:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[19816:19436:0427/011038.002:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19816:8128:0427/011038.313:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[23328:1976:0427/011053.139:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E8424867AEF1DC9AF1C5736C7E8A29F1 will be ignored
+[19816:8128:0427/011054.799:ERROR:device_event_log_impl.cc(196)] [01:10:54.477] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18580:20992:0427/011056.145:ERROR:entry_impl.cc(1029)] No file for 80000012
+[19816:8128:0427/022202.432:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022207.446:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022212.532:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022217.532:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022442.554:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022447.553:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022452.554:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022507.684:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19816:8128:0427/022558.711:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
