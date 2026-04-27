@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 2026/04/27-11:08:29.334 3b28 Reusing MANIFEST C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
 2026/04/27-11:08:29.342 3b28 Recovering log #30
 2026/04/27-11:08:29.343 3b28 Level-0 table #3: started
@@ -8,3 +9,8 @@
 2026/04/27-11:08:29.362 3b28 Delete type=2 #29
 2026/04/27-11:08:29.362 3b28 Delete type=0 #30
 2026/04/27-11:08:29.362 3b28 Delete type=2 #31
+=======
+2026/04/27-11:09:12.237 b1c Reusing MANIFEST C:\Users\david\Desktop\My Classes\GameDesign2\Final\Game2-Final\MainMenu\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/27-11:09:12.244 b1c Recovering log #3
+2026/04/27-11:09:12.247 b1c Reusing old log C:\Users\david\Desktop\My Classes\GameDesign2\Final\Game2-Final\MainMenu\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes

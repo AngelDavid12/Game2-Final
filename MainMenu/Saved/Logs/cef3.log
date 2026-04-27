@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [12272:3048:0427/110828.792:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [12272:3048:0427/110828.934:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [12272:5596:0427/110829.080:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -10,3 +11,11 @@
 [12272:11708:0427/110838.200:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
 [14852:14964:0427/110838.595:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-88DA25DFE673B050DCBF714CAE1CC9A9 will be ignored
 [12272:3048:0427/112616.810:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[21420:21816:0427/110911.465:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21420:20444:0427/110911.895:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21420:21816:0427/110912.138:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21420:21816:0427/110921.890:ERROR:device_event_log_impl.cc(196)] [11:09:21.823] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7216:1552:0427/110922.100:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-559DBD74AB18F3835C4E05147E4A5AD4 will be ignored
+[21420:21816:0427/112651.214:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
