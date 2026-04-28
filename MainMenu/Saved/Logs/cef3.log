@@ -1,21 +1,106 @@
-<<<<<<< Updated upstream
-[12272:3048:0427/110828.792:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[12272:3048:0427/110828.934:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[12272:5596:0427/110829.080:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[12272:3048:0427/110829.235:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[12272:5596:0427/110835.484:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12272:5596:0427/110835.488:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12272:5596:0427/110835.492:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12272:5596:0427/110835.496:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\kay\Github\Game2-Final\MainMenu\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12272:11708:0427/110838.184:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[12272:11708:0427/110838.200:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14852:14964:0427/110838.595:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-88DA25DFE673B050DCBF714CAE1CC9A9 will be ignored
-[12272:3048:0427/112616.810:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[21420:21816:0427/110911.465:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[21420:20444:0427/110911.895:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[21420:21816:0427/110912.138:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[21420:21816:0427/110921.890:ERROR:device_event_log_impl.cc(196)] [11:09:21.823] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[7216:1552:0427/110922.100:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-559DBD74AB18F3835C4E05147E4A5AD4 will be ignored
-[21420:21816:0427/112651.214:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[2352:22812:0428/014854.340:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[2352:4548:0428/014854.531:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[2352:22812:0428/014854.687:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[2352:22812:0428/014907.729:ERROR:device_event_log_impl.cc(196)] [01:49:07.591] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20268:6444:0428/014907.932:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C0D1C90CF74441805D8F5A2F8B8CEEF0 will be ignored
+[2352:22812:0428/014909.384:ERROR:browser_info_manager.cc(781)] Timeout of new browser info response for frame 7-4D8924CB3BBE387BF8B6DD710BF1988B (has_rfh=0)
+[20756:7372:0428/014909.407:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-AF422A5B850B95B139148849317FE0B5 will be ignored
+[22632:8336:0428/014909.587:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21624:6464:0428/014909.827:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 51
+[21624:23428:0428/014941.008:ERROR:entry_impl.cc(1029)] No file for 80000066
+[21624:23428:0428/014945.674:ERROR:entry_impl.cc(1029)] No file for 800002e2
+[2352:22812:0428/014946.192:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21624:23428:0428/014950.289:ERROR:entry_impl.cc(1029)] No file for 8000024a
+[21624:23428:0428/014950.364:ERROR:entry_impl.cc(1029)] No file for 800000df
+[2352:22812:0428/014951.045:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[2352:22812:0428/014956.045:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[21624:23428:0428/015053.829:ERROR:entry_impl.cc(1029)] No file for 8000017b
+[21624:23428:0428/015117.625:ERROR:entry_impl.cc(1029)] No file for 800000ba
+[21624:23428:0428/015117.646:ERROR:entry_impl.cc(1029)] No file for 800001dc
+[21624:23428:0428/015117.646:ERROR:entry_impl.cc(1029)] No file for 8000019b
+[21624:23428:0428/015118.239:ERROR:entry_impl.cc(1029)] No file for 80000312
+[21460:7668:0428/015259.730:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame B-3CBE62370D1B9CA0806B794C65FFFAB4 will be ignored
+[2352:22812:0428/015326.860:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[23376:21692:0428/015823.956:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame D-B87054D464F3B69FB3195A7DCF00010B will be ignored
+[2352:22812:0428/015838.187:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[2352:22812:0428/015838.187:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[21624:23428:0428/015846.679:ERROR:entry_impl.cc(1029)] No file for 8000027c
+[21624:23428:0428/015847.290:ERROR:entry_impl.cc(1029)] No file for 800002bb
+[21624:23428:0428/015853.241:ERROR:entry_impl.cc(1029)] No file for 8000014e
+[21624:23428:0428/015947.235:ERROR:entry_impl.cc(1029)] No file for 800000be
+[21624:23428:0428/015947.252:ERROR:entry_impl.cc(1029)] No file for 80000224
+[21624:23428:0428/020002.974:ERROR:entry_impl.cc(1029)] No file for 80000094
+[21624:23428:0428/020003.010:ERROR:entry_impl.cc(1029)] No file for 800002f1
+[21624:23428:0428/020005.160:ERROR:entry_impl.cc(1029)] No file for 800000a9
+[21624:23428:0428/020009.873:ERROR:entry_impl.cc(1029)] No file for 800001de
+[21624:23428:0428/020143.927:ERROR:entry_impl.cc(1029)] No file for 8000012b
+[21624:23428:0428/020144.646:ERROR:entry_impl.cc(1029)] No file for 800001ff
+[21624:23428:0428/020156.492:ERROR:entry_impl.cc(1029)] No file for 800001d0
+[21624:23428:0428/020156.959:ERROR:entry_impl.cc(1029)] No file for 800002cf
+[21624:23428:0428/020159.387:ERROR:entry_impl.cc(1029)] No file for 8000007e
+[21624:23428:0428/020159.391:ERROR:entry_impl.cc(1029)] No file for 8000012a
+[21624:23428:0428/020159.822:ERROR:entry_impl.cc(1029)] No file for 8000015e
+[21624:23428:0428/020203.682:ERROR:entry_impl.cc(1029)] No file for 80000148
+[21624:23428:0428/020209.013:ERROR:entry_impl.cc(1029)] No file for 8000030b
+[21624:23428:0428/020215.722:ERROR:entry_impl.cc(1029)] No file for 8000026d
+[21624:23428:0428/020221.620:ERROR:entry_impl.cc(1029)] No file for 80000240
+[21624:23428:0428/020221.624:ERROR:entry_impl.cc(1029)] No file for 800002de
+[21624:23428:0428/020223.461:ERROR:entry_impl.cc(1029)] No file for 800002a4
+[21624:23428:0428/020226.093:ERROR:entry_impl.cc(1029)] No file for 80000125
+[21624:23428:0428/020226.095:ERROR:entry_impl.cc(1029)] No file for 80000116
+[21624:23428:0428/020226.111:ERROR:entry_impl.cc(1029)] No file for 80000294
+[21624:23428:0428/020228.652:ERROR:entry_impl.cc(1029)] No file for 800001e3
+[21624:23428:0428/020228.679:ERROR:entry_impl.cc(1029)] No file for 80000159
+[21624:23428:0428/020231.517:ERROR:entry_impl.cc(1029)] No file for 80000264
+[21624:23428:0428/020231.542:ERROR:entry_impl.cc(1029)] No file for 8000023f
+[21624:23428:0428/020239.644:ERROR:entry_impl.cc(1029)] No file for 80000167
+[21624:23428:0428/020239.710:ERROR:entry_impl.cc(1029)] No file for 80000202
+[21624:23428:0428/020243.095:ERROR:entry_impl.cc(1029)] No file for 800002f0
+[21624:23428:0428/020244.150:ERROR:entry_impl.cc(1029)] No file for 80000207
+[21624:23428:0428/020244.179:ERROR:entry_impl.cc(1029)] No file for 80000293
+[21624:23428:0428/020248.523:ERROR:entry_impl.cc(1029)] No file for 80000127
+[21624:23428:0428/020248.540:ERROR:entry_impl.cc(1029)] No file for 800002b2
+[21624:23428:0428/020248.581:ERROR:entry_impl.cc(1029)] No file for 80000233
+[21624:23428:0428/020300.517:ERROR:entry_impl.cc(1029)] No file for 80000149
+[21624:23428:0428/020300.551:ERROR:entry_impl.cc(1029)] No file for 800002e4
+[21624:23428:0428/020300.552:ERROR:entry_impl.cc(1029)] No file for 8000015d
+[21624:23428:0428/020300.575:ERROR:entry_impl.cc(1029)] No file for 80000295
+[21624:23428:0428/020303.260:ERROR:entry_impl.cc(1029)] No file for 80000288
+[21624:23428:0428/020303.284:ERROR:entry_impl.cc(1029)] No file for 8000028f
+[21624:23428:0428/020307.696:ERROR:entry_impl.cc(1029)] No file for 80000197
+[21624:23428:0428/020309.012:ERROR:entry_impl.cc(1029)] No file for 800002f2
+[21624:23428:0428/020310.125:ERROR:entry_impl.cc(1029)] No file for 800002ed
+[21624:23428:0428/020310.126:ERROR:entry_impl.cc(1029)] No file for 8000030a
+[21624:23428:0428/020310.639:ERROR:entry_impl.cc(1029)] No file for 8000010e
+[21624:23428:0428/020310.656:ERROR:entry_impl.cc(1029)] No file for 80000259
+[21624:23428:0428/020310.688:ERROR:entry_impl.cc(1029)] No file for 80000200
+[21624:23428:0428/020312.715:ERROR:entry_impl.cc(1029)] No file for 800002c5
+[21624:23428:0428/020312.727:ERROR:entry_impl.cc(1029)] No file for 80000278
+[21624:23428:0428/020312.729:ERROR:entry_impl.cc(1029)] No file for 80000307
+[21624:23428:0428/020312.729:ERROR:entry_impl.cc(1029)] No file for 80000251
+[21624:23428:0428/020328.393:ERROR:entry_impl.cc(1029)] No file for 80000229
+[21624:23428:0428/020941.481:ERROR:entry_impl.cc(1029)] No file for 800000c7
+[21624:23428:0428/021021.164:ERROR:entry_impl.cc(1029)] No file for 80000150
+[21624:23428:0428/021021.164:ERROR:entry_impl.cc(1029)] No file for 8000014f
+[21624:23428:0428/021021.190:ERROR:entry_impl.cc(1029)] No file for 80000151
+[22632:20512:0428/021021.738:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(103,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4_int)
+
+[22632:3196:0428/021021.929:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(136,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(138,1): warning X4000: use of potentially uninitialized variable (f_i_int_int_int2)
+C:\fakepath(174,1): warning X4000: use of potentially uninitialized variable (f_u_int_int_int)
+
+[22632:20512:0428/021022.563:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(166,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel_int)
+
+[22632:18812:0428/021022.713:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[22632:3196:0428/021203.903:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+C:\fakepath(382,11-39): warning X4008: floating point division by zero
+
+[22632:8336:0428/021205.261:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2352:22812:0428/025125.142:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
